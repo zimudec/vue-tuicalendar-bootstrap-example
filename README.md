@@ -1,6 +1,6 @@
 # Vue.js with Bootstrap, Tui Calendar + Extras example project
 
-This project aims to guide the implementation of Tui Calendar in vue. This implementation is based on the complete [example of Tui Calendar + Extras](https://nhnent.github.io/tui.calendar/latest/tutorial-example01-basic.html) which is made in Html, CSS, Bootstrap, Javascript and jQuery.
+This project aims to guide the implementation of Tui Calendar in vue. This implementation is based on the complete [example of Tui Calendar + Extras](https://nhnent.github.io/tui.calendar/latest/tutorial-example01-basic.html) which is made in Html, CSS, Bootstrap, Javascript and jQuery. Npm modules are used instead of using script tags in html.
 
 To see this project in action, click [here](https://zimudec.github.io/vue-tuicalendar-bootstrap-example/dist/).
 
@@ -11,6 +11,8 @@ To see this project in action, click [here](https://zimudec.github.io/vue-tuical
 First you need to have node.js installed. This will also automatically install the npm package manager.
 
 ## Usage
+
+First you must install the npm modules with `npm install` or` npm i`.
 
 ### Development
 
