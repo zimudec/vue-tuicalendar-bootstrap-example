@@ -2,7 +2,7 @@
 
 This project aims to guide the implementation of Tui Calendar in vue. This implementation is based on the complete [example of Tui Calendar + Extras](https://nhnent.github.io/tui.calendar/latest/tutorial-example01-basic.html) which is made in Html, CSS, Bootstrap, Javascript and jQuery.
 
-To see this project in action, click [here](https://vue-tuicalendar-bootstrap-example.github.io/dist/).
+To see this project in action, click [here](https://zimudec.github.io/vue-tuicalendar-bootstrap-example/dist/).
 
 ## Installation
 
