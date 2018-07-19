@@ -1,12 +1,22 @@
 {
   "name": "vue-tuicalendar-bootstrap-example",
   "version": "0.1.0",
-  "private": true,
+  "description": "Vue.js with Bootstrap, Tui Calendar + Extras example project",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimudec/vue-tuicalendar-bootstrap-example.github.io.git"
+  },
+  "author": "Héctor pavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zimudec/vue-tuicalendar-bootstrap-example/issues"
+  },
+  "homepage": "https://github.com/zimudec/vue-tuicalendar-bootstrap-example#readme",
   "dependencies": {
     "chance": "1.0.16",
     "moment": "2.22.2",
